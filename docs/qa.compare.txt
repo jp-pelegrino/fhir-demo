@@ -1,0 +1,37 @@
+CR_EligibilityCriteria_IG : Validation Results
+=========================================
+
+err = 0, warn = 4, info = 1
+$--
+Generated $--. FHIR version $-- for EligibilityIG#$-- (canonical = http://BR&R/EligibilityIG.org)
+ Build Errors : 17 / 4 / 0
+ D:\FHIR\git\CR_EligibilityCriteria_IG\fsh-generated\resources\ImplementationGuide-EligibilityIG : 0 / 0 / 1
+ D:\FHIR\git\CR_EligibilityCriteria_IG\fsh-generated\resources\Patient-PatientExample : 0 / 0 / 1
+ D:\FHIR\git\CR_EligibilityCriteria_IG\fsh-generated\resources\StructureDefinition-MyPatient : 0 / 0 / 2
+</table>
+== n/a ==
+ERROR: en\Patient-PatientExample.change.history.html#/html/body/div/div/div/p/a at Line 201, column 23: The link 'http://BR&R/EligibilityIG.org/BRR' for "BR&R" cannot be resolved
+ERROR: en\Patient-PatientExample.html#/html/body/div/div/div/p/a at Line 217, column 23: The link 'http://BR&R/EligibilityIG.org/BRR' for "BR&R" cannot be resolved
+ERROR: en\Patient-PatientExample.json.html#/html/body/div/div/div/p/a at Line 237, column 23: The link 'http://BR&R/EligibilityIG.org/BRR' for "BR&R" cannot be resolved
+ERROR: en\Patient-PatientExample.ttl.html#/html/body/div/div/div/p/a at Line 244, column 23: The link 'http://BR&R/EligibilityIG.org/BRR' for "BR&R" cannot be resolved
+ERROR: en\Patient-PatientExample.xml.html#/html/body/div/div/div/p/a at Line 232, column 23: The link 'http://BR&R/EligibilityIG.org/BRR' for "BR&R" cannot be resolved
+ERROR: en\StructureDefinition-MyPatient-definitions.html#/html/body/div/div/div/p/a at Line 567, column 23: The link 'http://BR&R/EligibilityIG.org/BRR' for "BR&R" cannot be resolved
+ERROR: en\StructureDefinition-MyPatient-examples.html#/html/body/div/div/div/p/a at Line 276, column 23: The link 'http://BR&R/EligibilityIG.org/BRR' for "BR&R" cannot be resolved
+ERROR: en\StructureDefinition-MyPatient-mappings.html#/html/body/div/div/div/p/a at Line 776, column 23: The link 'http://BR&R/EligibilityIG.org/BRR' for "BR&R" cannot be resolved
+ERROR: en\StructureDefinition-MyPatient-testing.html#/html/body/div/div/div/p/a at Line 269, column 23: The link 'http://BR&R/EligibilityIG.org/BRR' for "BR&R" cannot be resolved
+ERROR: en\StructureDefinition-MyPatient.html#/html/body/div/div/div/div/div/table/tr/td/span/button/div/div/div/p/a at Line 2120, column 23: The link 'http://BR&R/EligibilityIG.org/BRR' for "BR&R" cannot be resolved
+ERROR: en\StructureDefinition-MyPatient.profile.history.html#/html/body/div/div/div/div/div/h2/div/div/div/p/a at Line 252, column 23: The link 'http://BR&R/EligibilityIG.org/BRR' for "BR&R" cannot be resolved
+ERROR: en\StructureDefinition-MyPatient.profile.json.html#/html/body/div/div/div/p/a at Line 2487, column 23: The link 'http://BR&R/EligibilityIG.org/BRR' for "BR&R" cannot be resolved
+ERROR: en\StructureDefinition-MyPatient.profile.ttl.html#/html/body/div/div/div/p/a at Line 2042, column 23: The link 'http://BR&R/EligibilityIG.org/BRR' for "BR&R" cannot be resolved
+ERROR: en\StructureDefinition-MyPatient.profile.xml.html#/html/body/div/div/div/p/a at Line 2333, column 23: The link 'http://BR&R/EligibilityIG.org/BRR' for "BR&R" cannot be resolved
+ERROR: en\artifacts.html#/html/body/div/div/div/p/a at Line 218, column 23: The link 'http://BR&R/EligibilityIG.org/BRR' for "BR&R" cannot be resolved
+ERROR: en\index.html#/html/body/div/div/div/div/div/table/tr/td/span/button/div/div/div/p/a at Line 226, column 23: The link 'http://BR&R/EligibilityIG.org/BRR' for "BR&R" cannot be resolved
+ERROR: en\toc.html#/html/body/div/div/div/p/a at Line 158, column 23: The link 'http://BR&R/EligibilityIG.org/BRR' for "BR&R" cannot be resolved
+WARNING: 1: The HTML fragment 'ip-statements.xhtml' is not included anywhere in the produced implementation guide
+WARNING: 2: An HTML fragment from the set [cross-version-analysis.xhtml, cross-version-analysis-inline.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 3: An HTML fragment from the set [dependency-table.xhtml, dependency-table-short.xhtml, dependency-table-nontech.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 4: The HTML fragment 'globals-table.xhtml' is not included anywhere in the produced implementation guide
+== fsh-generated\resources\ImplementationGuide-EligibilityIG.json ==
+== fsh-generated\resources\Patient-PatientExample.json ==
+== fsh-generated\resources\StructureDefinition-MyPatient.json ==
+INFORMATION: StructureDefinition/MyPatient: StructureDefinition.snapshot.element[4].binding.extension[0]: The extension http://hl7.org/fhir/StructureDefinition/elementdefinition-maxValueSet|5.2.0 is deprecated

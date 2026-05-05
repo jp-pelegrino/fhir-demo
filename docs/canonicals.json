@@ -1,0 +1,14 @@
+[{
+  "id" : "EligibilityIG",
+  "type" : "ImplementationGuide",
+  "url" : "http://BR&R/EligibilityIG.org/ImplementationGuide/EligibilityIG",
+  "version" : "0.1.0",
+  "name" : "CR_EligibilityCriteria_IG"
+},
+{
+  "id" : "MyPatient",
+  "type" : "StructureDefinition",
+  "url" : "http://BR&R/EligibilityIG.org/StructureDefinition/MyPatient",
+  "version" : "0.1.0",
+  "name" : "MyPatient"
+}]

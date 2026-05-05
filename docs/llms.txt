@@ -1,0 +1,20 @@
+# EligibilityIG#0.1.0: null(en)
+
+## Pages
+
+* [Home](en/index.md)
+* [Artifacts Summary](en/artifacts.md)
+
+## Resources
+
+### Resource Profiles
+
+* [MyPatient](en/StructureDefinition-MyPatient.md)
+
+### ImplementationGuides
+
+* [CR_EligibilityCriteria_IG](en/ImplementationGuide-EligibilityIG.md)
+
+### Examples
+
+* [PatientExample (Patient)](en/Patient-PatientExample.md)
